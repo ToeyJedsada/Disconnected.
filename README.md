@@ -1,13 +1,44 @@
 # T H E C R O W !
-sadffasdfasdf
-asdfasdfads
-
-asdfasdfasdf
-
-asdfasdfasd
-asdfasdfadsf
+20% 
+ ██▒▒▒▒▒▒▒▒ 
 
 
-asdfasdfasdf
 
-agsd
+30% 
+ ███▒▒▒▒▒▒▒ 
+
+
+
+40% 
+████▒▒▒▒▒▒ 
+
+
+
+50% 
+█████▒▒▒▒▒ 
+
+
+
+60% 
+██████▒▒▒▒ 
+
+
+
+70% 
+███████▒▒▒ 
+
+
+
+80% 
+████████▒▒ 
+
+
+
+90% 
+█████████▒ 
+
+
+
+100% 
+██████████ 
+
